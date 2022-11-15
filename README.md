@@ -2,10 +2,7 @@
 This project was done as an assignment for completion of Computer Science II course at Tokyo Tech.
 
 ### IMPORTANT
-!!! The skeleton of the code was provided by the instructor of the course at Tokyo Tech. So I did not write the whole portion of the code !!! My works or modifications of the code are explained in the report (PDF).
-
-#### Code Link (Colab)
-https://colab.research.google.com/drive/1lAKxHs-GJeJMasEHniuMoXBEBZvw7go4?usp=sharing
+!!! The skeleton of the code was provided by the instructor of the course at Tokyo Tech. I did not write the whole portion of the code and so it is not shared !!! My works or modifications of the code are explained in the report (PDF).
 
 #### Features
 - tower of hanoi problem solution
